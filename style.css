@@ -1,0 +1,15 @@
+.titulo{
+    display: flex;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    font-size: 50px;
+    color: blue;
+}
+
+.ul-list{
+    position: relative;
+    left: 18%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
